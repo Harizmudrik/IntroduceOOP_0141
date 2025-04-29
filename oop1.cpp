@@ -24,6 +24,7 @@ int main ()
 
     mhs.nim = 2024;
     mhs.nama = "Hariz";
+    mhs.nilai = 90.5;
     
 
 }
