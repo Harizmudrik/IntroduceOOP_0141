@@ -20,5 +20,7 @@ class Mahasiswa{
 
 int main ()
 {
+    Mahasiswa mhs;
+    
 
 }
